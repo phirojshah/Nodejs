@@ -5,12 +5,10 @@
 1. [ REACT MasterClass Course Material - HERE](#react-js-masterclass) 
 
 
-React 2023 [Video Link](https://youtu.be/6l8RWV8D-Yo)
 
 
 1. [ NODE MasterClass Course Material - HERE](#node-js-masterclass) 
 
-NODE 2023  [Video Link](https://youtu.be/ChVE-JbtYbM)
 
 
 # React JS MasterClass   
